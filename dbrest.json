@@ -1,0 +1,14 @@
+{
+    "version": "0.0.11",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dbrest-io/dbREST/releases/download/v0.0.11/dbrest_0.0.11_Windows_x86_64.tar.gz",
+            "bin": [
+                "dbrest.exe"
+            ],
+            "hash": "8f3bd22afb8405f9f613f44b6ec10546da9c5a4c179a0e58a492efde27178126"
+        }
+    },
+    "homepage": "https:/github.com/dbrest-io/dbrest",
+    "description": "dbREST is an API backend that you can put in front of your database. Ever wanted to spin up an API service in front of your Snowflake, MySQL or even SQLite database? Well, dbREST allows that!"
+}
