@@ -1,12 +1,12 @@
 {
-    "version": "0.0.28",
+    "version": "0.0.29",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dbrest-io/dbREST/releases/download/v0.0.28/dbrest_windows_amd64.tar.gz",
+            "url": "https://github.com/dbrest-io/dbREST/releases/download/v0.0.29/dbrest_windows_amd64.tar.gz",
             "bin": [
                 "dbrest.exe"
             ],
-            "hash": "99e9afdea4af65d1d136cf80b539c8e25f6d00a30efddf9b1bef2611a8de7f49"
+            "hash": "8d1fe4373f3c315cd25fc9f67b611fa1e5e88db629c8eda10c46c5bd30ec169a"
         }
     },
     "homepage": "https:/github.com/dbrest-io/dbrest",
